@@ -1,9 +1,3 @@
----------------------- [ avangernews.com ] ----------------------
-
-                       [ Blockchain Made Easy ]
-
-*/
-
 pragma solidity ^0.8.2;
 
 library SafeMath {
